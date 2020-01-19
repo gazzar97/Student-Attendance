@@ -1,0 +1,9 @@
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe.config
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.pdb
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csprojAssemblyReference.cache
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Properties.Resources.resources
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.csproj.GenerateResource.cache
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.exe
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.pdb
+C:\Users\fast\Desktop\Student-Attendance\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Form1.resources
